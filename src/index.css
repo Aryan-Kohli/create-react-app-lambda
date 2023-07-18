@@ -1,0 +1,18 @@
+body{
+  /* height: 100vh; */
+  /* background-color: rgb(0, 0, 0); */
+}
+.footer {
+  height: 50px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top: auto;
+}
+
+.todos {
+  min-height: 55vh;
+}
+.header{
+
+}
